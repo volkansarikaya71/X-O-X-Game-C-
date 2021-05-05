@@ -1,2 +1,2 @@
-# X-O-X-Game-C-
-adverced x-o-x game made with c#
+Requirements
+-visual studio 2019
