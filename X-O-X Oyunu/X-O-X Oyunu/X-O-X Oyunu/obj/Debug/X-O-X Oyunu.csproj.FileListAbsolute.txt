@@ -1,0 +1,60 @@
+C:\Users\volka\source\repos\X-O-X Oyunu\X-O-X Oyunu\bin\Debug\X-O-X Oyunu.exe.config
+C:\Users\volka\source\repos\X-O-X Oyunu\X-O-X Oyunu\bin\Debug\X-O-X Oyunu.exe
+C:\Users\volka\source\repos\X-O-X Oyunu\X-O-X Oyunu\bin\Debug\X-O-X Oyunu.pdb
+C:\Users\volka\source\repos\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X-O-X Oyunu.csprojAssemblyReference.cache
+C:\Users\volka\source\repos\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X_O_X_Oyunu.Home.resources
+C:\Users\volka\source\repos\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X_O_X_Oyunu.Properties.Resources.resources
+C:\Users\volka\source\repos\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X-O-X Oyunu.csproj.GenerateResource.cache
+C:\Users\volka\source\repos\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X-O-X Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\volka\source\repos\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X-O-X Oyunu.exe
+C:\Users\volka\source\repos\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X-O-X Oyunu.pdb
+C:\Users\volka\source\repos\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X_O_X_Oyunu.Game.resources
+C:\Users\volka\source\repos\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X_O_X_Oyunu.Selectgamer.resources
+E:\repos\X-O-X Oyunu\X-O-X Oyunu\bin\Debug\X-O-X Oyunu.exe.config
+E:\repos\X-O-X Oyunu\X-O-X Oyunu\bin\Debug\X-O-X Oyunu.exe
+E:\repos\X-O-X Oyunu\X-O-X Oyunu\bin\Debug\X-O-X Oyunu.pdb
+E:\repos\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X-O-X Oyunu.csprojAssemblyReference.cache
+E:\repos\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X_O_X_Oyunu.Game.resources
+E:\repos\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X_O_X_Oyunu.Home.resources
+E:\repos\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X_O_X_Oyunu.Properties.Resources.resources
+E:\repos\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X_O_X_Oyunu.Selectgamer.resources
+E:\repos\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X-O-X Oyunu.csproj.GenerateResource.cache
+E:\repos\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X-O-X Oyunu.csproj.CoreCompileInputs.cache
+E:\repos\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X-O-X Oyunu.exe
+E:\repos\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X-O-X Oyunu.pdb
+C:\Users\vs\Desktop\repos\X-O-X Oyunu\X-O-X Oyunu\bin\Debug\X-O-X Oyunu.exe.config
+C:\Users\vs\Desktop\repos\X-O-X Oyunu\X-O-X Oyunu\bin\Debug\X-O-X Oyunu.exe
+C:\Users\vs\Desktop\repos\X-O-X Oyunu\X-O-X Oyunu\bin\Debug\X-O-X Oyunu.pdb
+C:\Users\vs\Desktop\repos\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X-O-X Oyunu.csprojAssemblyReference.cache
+C:\Users\vs\Desktop\repos\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X_O_X_Oyunu.Game.resources
+C:\Users\vs\Desktop\repos\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X_O_X_Oyunu.Home.resources
+C:\Users\vs\Desktop\repos\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X_O_X_Oyunu.Properties.Resources.resources
+C:\Users\vs\Desktop\repos\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X_O_X_Oyunu.Selectgamer.resources
+C:\Users\vs\Desktop\repos\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X-O-X Oyunu.csproj.GenerateResource.cache
+C:\Users\vs\Desktop\repos\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X-O-X Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\vs\Desktop\repos\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X-O-X Oyunu.exe
+C:\Users\vs\Desktop\repos\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X-O-X Oyunu.pdb
+C:\Users\Volkan\Downloads\X-O-X-Game-C--main\X-O-X Oyunu\X-O-X Oyunu\bin\Debug\X-O-X Oyunu.exe.config
+C:\Users\Volkan\Downloads\X-O-X-Game-C--main\X-O-X Oyunu\X-O-X Oyunu\bin\Debug\X-O-X Oyunu.exe
+C:\Users\Volkan\Downloads\X-O-X-Game-C--main\X-O-X Oyunu\X-O-X Oyunu\bin\Debug\X-O-X Oyunu.pdb
+C:\Users\Volkan\Downloads\X-O-X-Game-C--main\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X-O-X Oyunu.csproj.AssemblyReference.cache
+C:\Users\Volkan\Downloads\X-O-X-Game-C--main\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X_O_X_Oyunu.Game.resources
+C:\Users\Volkan\Downloads\X-O-X-Game-C--main\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X_O_X_Oyunu.Home.resources
+C:\Users\Volkan\Downloads\X-O-X-Game-C--main\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X_O_X_Oyunu.Properties.Resources.resources
+C:\Users\Volkan\Downloads\X-O-X-Game-C--main\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X_O_X_Oyunu.Selectgamer.resources
+C:\Users\Volkan\Downloads\X-O-X-Game-C--main\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X-O-X Oyunu.csproj.GenerateResource.cache
+C:\Users\Volkan\Downloads\X-O-X-Game-C--main\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X-O-X Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\Downloads\X-O-X-Game-C--main\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X-O-X Oyunu.exe
+C:\Users\Volkan\Downloads\X-O-X-Game-C--main\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X-O-X Oyunu.pdb
+C:\Users\Volkan\Desktop\c# projelerim\X-O-X-Game-C--main\X-O-X Oyunu\X-O-X Oyunu\bin\Debug\X-O-X Oyunu.exe.config
+C:\Users\Volkan\Desktop\c# projelerim\X-O-X-Game-C--main\X-O-X Oyunu\X-O-X Oyunu\bin\Debug\X-O-X Oyunu.exe
+C:\Users\Volkan\Desktop\c# projelerim\X-O-X-Game-C--main\X-O-X Oyunu\X-O-X Oyunu\bin\Debug\X-O-X Oyunu.pdb
+C:\Users\Volkan\Desktop\c# projelerim\X-O-X-Game-C--main\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X-O-X Oyunu.csproj.AssemblyReference.cache
+C:\Users\Volkan\Desktop\c# projelerim\X-O-X-Game-C--main\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X_O_X_Oyunu.Game.resources
+C:\Users\Volkan\Desktop\c# projelerim\X-O-X-Game-C--main\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X_O_X_Oyunu.Home.resources
+C:\Users\Volkan\Desktop\c# projelerim\X-O-X-Game-C--main\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X_O_X_Oyunu.Properties.Resources.resources
+C:\Users\Volkan\Desktop\c# projelerim\X-O-X-Game-C--main\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X_O_X_Oyunu.Selectgamer.resources
+C:\Users\Volkan\Desktop\c# projelerim\X-O-X-Game-C--main\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X-O-X Oyunu.csproj.GenerateResource.cache
+C:\Users\Volkan\Desktop\c# projelerim\X-O-X-Game-C--main\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X-O-X Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\Desktop\c# projelerim\X-O-X-Game-C--main\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X-O-X Oyunu.exe
+C:\Users\Volkan\Desktop\c# projelerim\X-O-X-Game-C--main\X-O-X Oyunu\X-O-X Oyunu\obj\Debug\X-O-X Oyunu.pdb
