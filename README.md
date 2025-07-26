@@ -12,3 +12,6 @@ Bot'a karşı (tek kişilik)
 Arkadaşına karşı (iki kişilik)
 
 Kullanıcı dostu arayüzü ve kolay oynanışıyla eğlenceli vakit geçirmenizi sağlar.
+
+https://www.volkansarikaya.com
+
